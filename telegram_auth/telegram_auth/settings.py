@@ -127,7 +127,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ
 AUTH_USER_MODEL = 'auth_app.CustomUser'  # указываем модель пользователя
 
-# SITE_URL = 'https://127.0.0.1:8000'
 SITE_URL = 'https://588a-81-2-236-220.ngrok-free.app'
-TELEGRAM_BOT_NAME = 'kzCleverBot'
-TELEGRAM_BOT_TOKEN = '5634015998:AAHISFHU8qVOU9W-TAPjV-M7tcPIjYc6uuU'
+TELEGRAM_BOT_NAME = 'KoddomMusicBot'
+TELEGRAM_BOT_TOKEN = '5634015978:AAHISFHU8qVOU9W-TAPjV-M7tcPIjYc6uuU'
